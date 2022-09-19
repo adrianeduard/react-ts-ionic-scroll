@@ -59,4 +59,4 @@ const ExploreContainer: React.FC<ContainerProps> = () => {
   );
 };
 
-export default React.memo(ExploreContainer);
+export default ExploreContainer;
